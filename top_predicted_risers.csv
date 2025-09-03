@@ -1,0 +1,16 @@
+NEIGHBOURHOOD,TYPE,SEASON,LAG1,pred_xgb,delta_vs_last
+Musqueam,Other Theft,Summer,1.0,11.9,10.9
+Fairview,Break and Enter Residential/Other,Summer,4.0,9.1,5.1
+Fairview,Theft of Vehicle,Summer,1.0,5.9,4.9
+West Point Grey,Other Theft,Summer,13.0,16.7,3.7
+Fairview,Vehicle Collision or Pedestrian Struck (with Fatality),Summer,1.0,4.5,3.5
+Arbutus Ridge,Other Theft,Winter,10.0,13.3,3.3
+Renfrew-Collingwood,Theft of Bicycle,Summer,4.0,7.1,3.1
+Fairview,Homicide,Summer,0.0,2.9,2.9
+Oakridge,Other Theft,Winter,14.0,15.9,1.9
+Stanley Park,Mischief,Winter,1.0,2.8,1.8
+Hastings-Sunrise,Theft of Bicycle,Summer,7.0,8.6,1.6
+Shaughnessy,Break and Enter Residential/Other,Winter,3.0,4.6,1.6
+Renfrew-Collingwood,Homicide,Summer,0.0,1.5,1.5
+West End,Theft of Bicycle,Summer,25.0,26.4,1.4
+West Point Grey,Vehicle Collision or Pedestrian Struck (with Injury),Winter,3.0,4.1,1.1
